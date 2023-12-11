@@ -6,7 +6,7 @@
 # Technology used: VS Code, Jupyter Notebook,Command prompt
 # Command Prompt- 
 1.pip3 --version 
-2.pip3 install --upgrade pip
+2.pip3 install --upgrade pip // python.exe -m pip install --upgrade pip
 3.pip3 install --upgrade jupyter matplotlib numpy pandas scipy scikit-learn
 4.python3 -c "import jupyter, matplotlib, numpy, pandas, scipy, scikit-learn"
  (python)  
